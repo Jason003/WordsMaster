@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WordsMaster</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_main_words">MainWordsActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+        <string name="true_button">True</string>
+        <string name="false_button">False</string>
+        <string name="initial_score">Score 0/13</string>
+
+
+        <string name="incorrect_toast">Wrong!</string>
+        <string name="correct_toast">You got it!</string>
+
+        <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
+        <string name="question_2">A slug\'s blood is green.</string>
+        <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
+        <string name="question_4">The total surface area of two human lungs is approximately 70 square metres.</string>
+        <string name="question_5">In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.</string>
+        <string name="question_6">In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.</string>
+        <string name="question_7">It is illegal to pee in the Ocean in Portugal.</string>
+        <string name="question_8">You can lead a cow down stairs but not up stairs.</string>
+        <string name="question_9">Google was originally called \"Backrub\".</string>
+        <string name="question_10">Buzz Aldrin\'s mother\'s maiden name was \"Moon\".</string>
+        <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
+        <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
+        <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+        <string name="this_is_a_true_button">this is a true button</string>
+
+        <string name="gre_1">Abandon:放弃.</string>
+        <string name="gre_2">Abandon:放弃.</string>
+        <string name="gre_3">Abandon:放弃.</string>
+        <string name="gre_4">Abandon:放弃.</string>
+        <string name="gre_5">Abandon:放弃.</string>
+        <string name="gre_6">Abandon:放弃.</string>
+        <string name="gre_7">Abandon:放弃.</string>
+        <string name="gre_8">Abandon:放弃.</string>
+
+
+</resources>
